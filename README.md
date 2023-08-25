@@ -10,4 +10,4 @@ This notebook was made to serve as a convenient medium to use pytube in order to
 * Along with the videos a log file is created for each playlist that stores each video successfully downloaded from it. This allows it to skip the videos it has already downloaded if the downloader is stopped and restarted for any reason.
 
 # Dependencies 
-*ALL the dependencies are handled in the first code block the only requirement is that you use the Google Colab environment for the seamless Google Drive integration.
+* ALL the dependencies are handled in the first code block the only requirement is that you use the Google Colab environment for the seamless Google Drive integration.
